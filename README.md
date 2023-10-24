@@ -8,7 +8,7 @@ My goal is to develop testing knowledge and skills and someday become an automat
 - I’m currently learning JAVA language :wrench:
 - I’m a possessor of an ISTQB certificate :notebook:
 - Ask me about cars, F1, simracing, investing, and politics...  - they are some of my hobbies 🌿
-- How to reach me: ceniuk.mateusz@gmail.com:mailbox_closed: , [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](www.linkedin.com/in/mateuszceniuk)
+- How to reach me: ceniuk.mateusz@gmail.com:mailbox_closed:
 
 <!---
 Matayush/Matayush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
