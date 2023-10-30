@@ -10,6 +10,9 @@ My goal is to develop testing knowledge and skills and someday become an automat
 - Ask me about cars, F1, simracing, investing, and politics...  - they are some of my hobbies 🌿
 - How to reach me: ceniuk.mateusz@gmail.com:mailbox_closed:
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Matayush&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Matayush's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matayush&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 <!---
 Matayush/Matayush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
