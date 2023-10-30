@@ -3,13 +3,14 @@
 I have a master's degree in public administration, which I gained at Jagiellonian University in Krakow. I've spent the last 6 years in the United Kingdom where I worked tremendously hard to obtain my own place to live for me and my family. After fulfilling this goal I wanted to get myself a job in which I will be doing what I really like, so I decided to become a Software Tester. I'm an extremely inquisitive person, a go-getter with a massive drive to learn and achieve my goals. 🙋‍♀️
 My goal is to develop testing knowledge and skills and someday become an automation tester. On this site, I would like to share all my paths of learning skills needed to reach my goal.
 🎯 I invite you to my portfolio, which I created here, as a part of a new challenge. Here you can find the new abilities I gained from personal studies, research, and courses I took part in. 
-
+##
 - I’m currently working on my own automation project 🛠️
 - I’m currently learning JAVA language :wrench:
 - I’m a possessor of an ISTQB certificate :notebook:
 - Ask me about cars, F1, simracing, investing, and politics...  - they are some of my hobbies 🌿
 - How to reach me: ceniuk.mateusz@gmail.com:mailbox_closed:
 
+##
   ### 💻 &nbsp; Testing Tools:
 
 - &nbsp; ![Jira](https://img.shields.io/badge/-Jira-0A1A2F?style=flat&logo=jira&logoColor=247df2)
@@ -29,9 +30,16 @@ My goal is to develop testing knowledge and skills and someday become an automat
   &nbsp; ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-0A1A2F?style=flat&logo=microsoftoffice&logoColor=D83B01)
 - &nbsp; ![Linux](https://img.shields.io/badge/-Linux-0A1A2F?style=float&logo=linux)
   &nbsp; ![Windows](https://img.shields.io/badge/-Windows-0A1A2F?style=flat&logo=windows10&logoColor=0078D6)
+##
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Matayush&show_icons=true&github&hide=contribs&include_all_commits=true&theme=buefy&hide_border=true" alt="Matayush's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matayush&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+## 📲 Connect with me 📲
+
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mateuszceniuk/)
+[<img align="left" alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />](https://www.facebook.com/mateusz.ceniuk.5/)
+
 
 <!---
 Matayush/Matayush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
