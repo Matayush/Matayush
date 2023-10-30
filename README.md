@@ -30,7 +30,7 @@ My goal is to develop testing knowledge and skills and someday become an automat
 - &nbsp; ![Linux](https://img.shields.io/badge/-Linux-0A1A2F?style=float&logo=linux)
   &nbsp; ![Windows](https://img.shields.io/badge/-Windows-0A1A2F?style=flat&logo=windows10&logoColor=0078D6)
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Matayush&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Matayush's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matayush&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Matayush&show_icons=true&github&hide=contribs&include_all_commits=true&theme=buefy&hide_border=true" alt="Matayush's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matayush&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!---
