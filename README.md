@@ -1,4 +1,10 @@
 # Portfolio
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 ## **Hi, I'm Mateusz 👋** 
 I have a master's degree in public administration, which I gained at Jagiellonian University in Krakow. I've spent the last 6 years in the United Kingdom where I worked tremendously hard to obtain my own place to live for me and my family. After fulfilling this goal I wanted to get myself a job in which I will be doing what I really like, so I decided to become a Software Tester. I'm an extremely inquisitive person, a go-getter with a massive drive to learn and achieve my goals. 🙋‍♀️
 My goal is to develop testing knowledge and skills and someday become an automation tester. On this site, I would like to share all my paths of learning skills needed to reach my goal.
