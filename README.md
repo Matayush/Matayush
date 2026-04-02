@@ -37,9 +37,14 @@ My goal is to develop testing knowledge and skills and someday become an automat
   &nbsp; ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-0A1A2F?style=flat&logo=microsoftoffice&logoColor=D83B01)
 - &nbsp; ![Linux](https://img.shields.io/badge/-Linux-0A1A2F?style=float&logo=linux)
   &nbsp; ![Windows](https://img.shields.io/badge/-Windows-0A1A2F?style=flat&logo=windows10&logoColor=0078D6)
-##
+## 📊 GitHub Stats
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Matayush&theme=buefy&hide_icons=true" alt="Matayush's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matayush&layout=compact&theme=buefy&hide_border=true" /></a> |
+<div align="center">
+
+![Mateusz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matayush&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matayush&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 | ------------- | ------------- |
 
 ## 📲 Connect with me 📲
