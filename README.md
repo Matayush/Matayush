@@ -65,7 +65,18 @@ personal labs, and continuous learning.
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
 ---
+# 🚀 Featured Project
 
+### [stirling-pdf-aks](https://github.com/Matayush/stirling-pdf-aks)
+> Deploying the open-source **Stirling PDF** application on **Azure Kubernetes Service (AKS)**
+
+- ☁️ Full AKS cluster setup on **Microsoft Azure**
+- 🐳 Containerised deployment with **Docker** + **Kubernetes manifests**
+- 🏗️ Infrastructure provisioned with **Terraform**
+- 🌐 Exposed via **Nginx Ingress Controller**
+- 🔁 CI/CD ready pipeline configuration
+
+---
 ## 📊 GitHub Stats
 
 <div align="center">
