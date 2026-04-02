@@ -21,7 +21,7 @@ personal labs, and continuous learning.
 - 🔭 Currently working as a **Technical Advisor** focused on Azure core services:
   **Virtual Machines**, **Storage**, **Networking**
 - ☁️ Specialising in **Microsoft Azure**, **Terraform** **Kubernetes** and **Docker**
-- 🪟 Experienced in **Windows performance diagnostics** — Procmon, ProcDump, WPA, WER & No-Boot troubleshooting
+- 🪟 **Windows diagnostics**: Procmon, ProcDump, WPA, WER, No-Boot troubleshooting
 - 📜 Certified: **ISTQB** | **Microsoft Azure Fundamentals (AZ-900)** | Pursuing **AZ-104**
 - 🛠️ Building hands-on projects in cloud infrastructure and automation
 - 💬 Ask me about Azure, K8s, Terraform, cars, F1, sim racing, investing & politics
