@@ -40,12 +40,10 @@ My goal is to develop testing knowledge and skills and someday become an automat
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Mateusz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matayush&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matayush&layout=compact&theme=tokyonight&hide_border=true)
-
+  <img src="https://github-stats-extended.vercel.app/api?username=Matayush&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mateusz's GitHub Stats" />
+  <br/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Matayush&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
-| ------------- | ------------- |
 
 ## 📲 Connect with me 📲
 
