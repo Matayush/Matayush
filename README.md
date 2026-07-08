@@ -7,7 +7,7 @@
 
 ## Hi, I'm Mateusz 👋
 
-I'm a **Cloud & Infrastructure Engineer** based in **Kraków, Poland** 🇵🇱, open to remote
+I'm a **Cloud & Infrastructure Engineer** based in **Kraków, Poland** 🇵🇱, open to remote, hybrid, and onsite 
 opportunities, passionate about building scalable, automated, and resilient infrastructure
 on **Microsoft Azure**. With a background in software testing (ISTQB certified) and hands-on
 experience in Terraform Kubernetes, and Docker, I'm on a focused path toward becoming a
